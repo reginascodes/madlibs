@@ -1,0 +1,10 @@
+name,adjective,noun,emotion,noun,verb,verb,noun,verb,noun,verb,verb,verb,noun,verb - ing,adjective,adjective
+noun,adjective,verb,adverb,noun,adjective,plural noun,plural noun, plural noun,part of the body,noun,noun,noun,noun,part of the body
+adjective,noun,plural noun,adjective,adjective,verb - ing,verb - ing,adjective,adjective,noun,food,part of the body - plural,adjective,vehicle,food,food,something alive - plural,something alive - plural,adverb,noun
+adjective,someone's name,adjective,noun,verb,animal,verb - ing,adverb,adjective,someone's name,adjective,noun,verb - ing,plural noun,verb - ing
+noun,noun,name,adjective,noun,noun,noun,adjective,plural noun,part of the body - plural,adjective,plural noun,plural noun,adjective,noun,adjective
+adjective,plural noun,verb - ing,plural noun,celebrity - female, person in room - male,silly word,verb,food - plural,noun,same food as before,adjective,adjective,type of shoe - plural,something alive,noun,verb - ing,noun,silly word
+country,adverb,adjective,animal,verb - ing,verb,verb - ing,adverb,adjective,place,type of liquid,part of the body,verb
+adjective,plural noun,plural noun,silly word,type of liquid,adjective,noun,verb,plural noun,verb - ing,number,verb - ing,plural noun,noun
+adjective,noun,adjective,plural noun,adverb,verb - ing,silly word - plural,adjective,plural noun,name,adjective,number,name,noun,name,noun,name,name,plural noun
+noun,wacky state,verb,noun,noun,proper name,verb,noun,verb,noun,part of the body,adjective,relative,activity,chain restaurant,adverb and verb - past tense,month,verb,noun,verb - past tense,adjective,the first verb entered,the second noun entered,plural noun
